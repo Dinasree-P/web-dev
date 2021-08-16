@@ -1,0 +1,13 @@
+.pookkadanav{
+    background-color: black;
+    margin-bottom: 50px;
+}
+
+.pookkadanav button{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color: gray;
+    height: 70px;
+}
